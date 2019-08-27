@@ -6,7 +6,7 @@ In this project, we will be analyzing dataset that contains informations from Th
 # INSTRUCTIONS
 Here are the steps we will be taking:
 
-+ Step 1:the following questions will be the focus of my analysis
++ Step 1: the following questions will be the focus of my analysis
  
   1- what is the relationship between popularity, budget, revenue, profit and vote count?
   
@@ -24,7 +24,7 @@ Here are the steps we will be taking:
  
   8- Which movie(genre and original title) is the most successfull?
  
-+ Step 2:data wrangling
++ Step 2: data wrangling
  We are going to load and assess the data; then, we will make some modifications to ensure that
  our data is clean and ready for analysis.
 
@@ -36,5 +36,5 @@ Here are the steps we will be taking:
  We will summarize our findings
  and terminate by mentionning our limitations during our analysis.
  
- TOOLS
+# TOOLS
 We will be using jupyter notebook and python libraries such as pandas, NumPy, matplotlib and seaborn. 
